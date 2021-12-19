@@ -1,0 +1,23 @@
+.container {
+    width: 500px;
+    height: 200px;
+    border-radius: 30px;
+    border: 5px solid darkmagenta;
+    text-align: center;
+    background-color: darkturquoise;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: darkblue;
+    padding: 9%;
+}
+
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: darkblue;
+    
+}
